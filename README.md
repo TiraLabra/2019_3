@@ -1,4 +1,4 @@
-## [Link to english materials](pages/README.md)
+## [Link to english materials](pages/)
 
 # Aineopintojen harjoitustyö: Tietorakenteet ja algoritmit, periodi III
 

@@ -17,7 +17,7 @@ More detailed course timing is availabel [here](aikataulu.md).
 | **7** 11.2.- |  |  |  |  |  [DL 5 23:59](aikataulu.md#week-5) |  |  |
 | **8** 18.2.- |  |  |  |  | [DL 6 23:59](aikataulu.md#week-6) |  |  |
 | **9** 25.2.- |  |  |  |  |  |  |  |
-| **10** 4.3.-  _Exam week_ |  |  |  |  |  **[Final submission](aikataulu.md#final-submission-todo)** |  |  |
+| **10** 4.3.-  _Exam week_ |  |  |  |  |  **[Final submission](https://github.com/TiraLabra/2019_3/blob/master/pages/aikataulu.md#final-deadline-exam-week-friday-83-2359)** |  |  |
 
 
 

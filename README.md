@@ -12,13 +12,13 @@ Tarkempi aikataulu [täällä](sivut/aikataulu.md).
 
 |  Viikko | Ma | Ti | Ke | To | Pe | La | Su |
 |---------------------------|:--:|:--:|:----------------------------:|:--:|:----------------------:|:--:|:----------:|
-| **3** 14.1.- |  |  |  Aloitustilaisuus 16-18 B119 |  |  | [DL 1 23:59](sivut/aikataulu.md#viikko-1) |  |
-| **4** 21.1.- |  |  | |  |  [DL 2 23:59](sivut/aikataulu.md#viikko-2) |  |  |
-| **5** 28.1.- |  |  |  |  |  [DL 3 23:59](sivut/aikataulu.md#viikko-3) |  |  |
-| **6** 4.2.- |  |  |  |  | [DL 4 23:59](sivut/aikataulu.md#viikko-4) |  |  |
-| **7** 11.2.- |  |  |  |  |  [DL 5 23:59](sivut/aikataulu.md#viikko-5) |  |  |
-| **8** 18.2.- |  |  |  |  | [DL 6 23:59](sivut/aikataulu.md#viikko-6) |  |  |
-| **9** 25.2.- |  |  |  |  |  |  |  |
+| **3** 14.1.- |  |  |  Aloitustilaisuus 16-18 B119 |  | Paja 15-18 BK107 | [DL 1 23:59](sivut/aikataulu.md#viikko-1) |  |
+| **4** 21.1.- |  |  | |  |  Paja 15-18 BK107<br/>[DL 2 23:59](sivut/aikataulu.md#viikko-2) |  |  |
+| **5** 28.1.- |  |  |  |  |  Paja 15-18 BK107<br/>[DL 3 23:59](sivut/aikataulu.md#viikko-3) |  |  |
+| **6** 4.2.- |  |  |  |  | Paja 15-18 BK107<br/>[DL 4 23:59](sivut/aikataulu.md#viikko-4) |  |  |
+| **7** 11.2.- |  |  |  |  |  Paja 15-18 BK107<br/>[DL 5 23:59](sivut/aikataulu.md#viikko-5) |  |  |
+| **8** 18.2.- |  |  |  |  | Paja 15-18 BK107<br/>[DL 6 23:59](sivut/aikataulu.md#viikko-6) |  |  |
+| **9** 25.2.- |  |  |  |  | Paja 15-18 BK107 |  |  |
 | **10** 4.3.-  _Tenttiviikko_ |  |  |  |  |  **[Lopullinen palautus](sivut/aikataulu.md#lopullinen-palautus-todo)** |  |  |
 
 

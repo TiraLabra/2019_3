@@ -10,13 +10,13 @@ More detailed course timing is availabel [here](aikataulu.md).
 
 |  Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |---------------------------|:--:|:--:|:----------------------------:|:--:|:----------------------:|:--:|:----------:|
-| **3** 14.1.- |  |  |  Mandatory lecture 16-18 B119 |  |  | [DL 1 23:59](aikataulu.md#week-1) |  |
-| **4** 21.1.- |  |  | |  |  [DL 2 23:59](aikataulu.md#week-2) |  |  |
-| **5** 28.1.- |  |  |  |  |  [DL 3 23:59](aikataulu.md#week-3) |  |  |
-| **6** 4.2.- |  |  |  |  | [DL 4 23:59](aikataulu.md#week-4) |  |  |
-| **7** 11.2.- |  |  |  |  |  [DL 5 23:59](aikataulu.md#week-5) |  |  |
-| **8** 18.2.- |  |  |  |  | [DL 6 23:59](aikataulu.md#week-6) |  |  |
-| **9** 25.2.- |  |  |  |  |  |  |  |
+| **3** 14.1.- |  |  |  Mandatory lecture 16-18 B119 |  | guidance:<br/>15-18 BK107 | [DL 1 23:59](aikataulu.md#week-1) |  |
+| **4** 21.1.- |  |  | |  | guidance:<br/>15-18 BK107<br/>[DL 2 23:59](aikataulu.md#week-2) |  |  |
+| **5** 28.1.- |  |  |  |  | guidance:<br/>15-18 BK107<br/>[DL 3 23:59](aikataulu.md#week-3) |  |  |
+| **6** 4.2.- |  |  |  |  | guidance:<br/>15-18 BK107<br/>[DL 4 23:59](aikataulu.md#week-4) |  |  |
+| **7** 11.2.- |  |  |  |  | guidance:<br/>15-18 BK107<br/>[DL 5 23:59](aikataulu.md#week-5) |  |  |
+| **8** 18.2.- |  |  |  |  | guidance:<br/>15-18 BK107<br/>[DL 6 23:59](aikataulu.md#week-6) |  |  |
+| **9** 25.2.- |  |  |  |  | guidance:<br/>15-18 BK107 |  |  |
 | **10** 4.3.-  _Exam week_ |  |  |  |  |  **[Final submission](https://github.com/TiraLabra/2019_3/blob/master/pages/aikataulu.md#final-deadline-exam-week-friday-83-2359)** |  |  |
 
 

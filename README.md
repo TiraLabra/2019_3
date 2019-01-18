@@ -24,8 +24,10 @@ Tarkempi aikataulu [täällä](sivut/aikataulu.md).
 
 
 ## :mega: Ajankohtaista
+
+ * Labtoolin pitäisi nyt toimia!
  * Lopullinen palautus perjantaina 8.3. klo 23:59, tähän ei ole saatavilla lisäaikaa. Onnea kaikille koeviikolle!
- * Jos löydät kurssisivuilta kirjoitus- tai muun virheen. Voit seurata [täältä](https://github.com/mluukkai/Ohjelmistotekniikka2018/blob/master/web/typokorjaukset.md) löytyviä ohjeita virheen korjaamisesksi.
+ * Jos löydät kurssisivuilta kirjoitus- tai muun virheen. Voit seurata [täältä](https://github.com/mluukkai/Ohjelmistotekniikka2018/blob/master/web/typokorjaukset.md) löytyviä ohjeita virheen korjaamisesksi. Hyvistä korjauksista on mahdollista saada yhden kurssipisiteen "bug bounty" (max 1 per oppilas)
 
 ## :notebook: Labtool
 

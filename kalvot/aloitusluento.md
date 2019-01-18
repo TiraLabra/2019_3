@@ -9,7 +9,7 @@
 - Yhteyttä sähköpostilla tai irkissä kurssikanavalla
 
 - Telegram-kanava https://t.me/tkttiralabra/
-- IRC-kanava **#tiralabra2017** @ IRCnet
+- IRC-kanava **#tiralabra** @ IRCnet
 - Kurssisivu https://github.com/TiraLabra/2019_3
 
 # Mistä kyse?

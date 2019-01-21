@@ -2,7 +2,7 @@
 
 Each week you will get course feedback through [Labtool](https://studies.cs.helsinki.fi/labtool/).
 
-**NB Create your GitHub project repository first.**
+**N.B. Create your GitHub project repository first.**
 
 Usage instructions:
 

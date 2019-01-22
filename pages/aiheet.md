@@ -16,7 +16,7 @@ You can either come up with your own topic or pick one from the ones below. The 
 
 * How to compress a given file as efficiently as possible? A desired outcome would be at least a 40-60 % reduction in size. And the file has to be inflatable back to the original. How well can your implementation fare compared to existing solutions?
     * Huffman
-    * Lempel–Ziv–Welch
+    * Lempel Ziv
 
 ## AI
 

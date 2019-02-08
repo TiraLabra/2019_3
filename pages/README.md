@@ -21,6 +21,7 @@ Detailed course timing is available [here](aikataulu.md).
 
 ## :mega: News
 
+ * Workshop for 8.2. mostly cancelled. Someone may be around for general algorith workshop stuff. If you have lab specific concerns I should be reachable through irc or e-mail.
  * Labtool should now work!
  * The final submission deadline is on Friday 8.3. at 23:59. There are no time extensions available. Good luck on the exam week!
  * If you find typos or other errors on the course pages, please submit a Pull Request with the fix. A bug bounty of 1 course point will be awarded for significant fixes (capped at 1 per student).

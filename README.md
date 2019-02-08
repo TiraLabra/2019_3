@@ -25,6 +25,7 @@ Tarkempi aikataulu [täällä](sivut/aikataulu.md).
 
 ## :mega: Ajankohtaista
 
+ * Paja 8.2. lähtökohtaisesti peruttu. Mahdollisesti algopajaohjaus kuitenkin järjestyy. Yritän olla päätelaitteen lähettyvillä tänään. Jos on asiaa niin tökkikää ircissä tai sähköpostilla.
  * Labtoolin pitäisi nyt toimia!
  * Lopullinen palautus perjantaina 8.3. klo 23:59, tähän ei ole saatavilla lisäaikaa. Onnea kaikille koeviikolle!
  * Jos löydät kurssisivuilta kirjoitus- tai muun virheen. Voit seurata [täältä](https://github.com/mluukkai/Ohjelmistotekniikka2018/blob/master/web/typokorjaukset.md) löytyviä ohjeita virheen korjaamisesksi. Hyvistä korjauksista on mahdollista saada yhden kurssipisteen "bug bounty" (max 1 per oppilas)

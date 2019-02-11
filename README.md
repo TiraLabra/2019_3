@@ -25,6 +25,8 @@ Tarkempi aikataulu [täällä](sivut/aikataulu.md).
 
 ## :mega: Ajankohtaista
 
+ * Doodle linkki demotilaisuuden aikatauluttamiseksi on lähetetty kurssille ilmoittautuneille opiskelijoille. Sähköposti on lähtenyt siihen osoitteseen mikä on weboodiin rekisteröity.
+ * Ekat koodikatselmoinnit on jaettu. Katsokaa katselmoitavat labtoolista.
  * Paja 8.2. lähtökohtaisesti peruttu. Mahdollisesti algopajaohjaus kuitenkin järjestyy. Yritän olla päätelaitteen lähettyvillä tänään. Jos on asiaa niin tökkikää ircissä tai sähköpostilla.
  * Labtoolin pitäisi nyt toimia!
  * Lopullinen palautus perjantaina 8.3. klo 23:59, tähän ei ole saatavilla lisäaikaa. Onnea kaikille koeviikolle!

@@ -18,13 +18,14 @@ Tarkempi aikataulu [täällä](sivut/aikataulu.md).
 | **6** 4.2.- |  |  |  |  | Paja 15-18 BK107<br/>[DL 4 23:59](sivut/aikataulu.md#viikko-4) |  |  |
 | **7** 11.2.- |  |  |  |  |  Paja 15-18 BK107<br/>[DL 5 23:59](sivut/aikataulu.md#viikko-5) |  |  |
 | **8** 18.2.- |  |  |  |  | Paja 15-18 BK107<br/>[DL 6 23:59](sivut/aikataulu.md#viikko-6) |  |  |
-| **9** 25.2.- |  |  |  |  | Paja 15-18 BK107 |  |  |
-| **10** 4.3.-  _Tenttiviikko_ |  |  |  |  |  **[Lopullinen palautus](sivut/aikataulu.md#lopullinen-palautus-todo)** |  |  |
+| **9** 25.2.- |  |  | **Demo #1**<br /> 14-16 B119 |  | Paja 15-18 BK107 |  |  |
+| **10** 4.3.-  _Tenttiviikko_ |  |  |  | **Demo #2** <br /> 12-14 CK111 |  **[Lopullinen palautus](sivut/aikataulu.md#lopullinen-palautus-todo)** |  |  |
 
 
 
 ## :mega: Ajankohtaista
 
+ * Demotilaisuuden ajankohdat on lyöty lukkoon. Ilmoituslinkki demotilaisuuteen on laitettu opiskelijoille linkinä. Ottakaa yhteyttä jos ette pääse kumpaankaan demotilaisuuteen.
  * Doodle linkki demotilaisuuden aikatauluttamiseksi on lähetetty kurssille ilmoittautuneille opiskelijoille. Sähköposti on lähtenyt siihen osoitteseen mikä on weboodiin rekisteröity.
  * Ekat koodikatselmoinnit on jaettu. Katsokaa katselmoitavat labtoolista.
  * Paja 8.2. lähtökohtaisesti peruttu. Mahdollisesti algopajaohjaus kuitenkin järjestyy. Yritän olla päätelaitteen lähettyvillä tänään. Jos on asiaa niin tökkikää ircissä tai sähköpostilla.
@@ -56,7 +57,7 @@ Telegram kanava on (yleensä) sillattu irkkiin, joten ohjaajaan päässee käsik
 
 ## Demotilaisuus
 
-* Paikka ja aika TBD. Suunnitelma on laittaa pari viikkoa kurssin alun jälkeen doodle kysely sopivimman demo-ajan löytämiseksi.
+* Paikka ja aika: Demo #1: Keskiviikko 27.2. 14-16 B119, Demo #2: Torstai 7.3. 12-14 CK111. Suunnitelma on laittaa pari viikkoa kurssin alun jälkeen doodle kysely sopivimman demo-ajan löytämiseksi.
 * **PAKOLLINEN!** Ota yhteyttä jos et pääse demotilaisuuteen, se on läpipääsyyn pakollinen!
 * Projektit ladattu etukäteen esityskoneelle, josta näytetään oma työ.
 * Vaihtoehtoisesti demota voi omalta kannettavalta. Tässa tapauksessa kannattaa saapua demoon hyvissä ajoin ja varmistaa että projektori toimii koneen kanssa

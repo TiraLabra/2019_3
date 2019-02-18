@@ -16,11 +16,12 @@ Detailed course timing is available [here](aikataulu.md).
 | **6** 4.2.- |  |  |  |  | guidance:<br/>15-18 BK107<br/>[DL 4 23:59](aikataulu.md#week-4) |  |  |
 | **7** 11.2.- |  |  |  |  | guidance:<br/>15-18 BK107<br/>[DL 5 23:59](aikataulu.md#week-5) |  |  |
 | **8** 18.2.- |  |  |  |  | guidance:<br/>15-18 BK107<br/>[DL 6 23:59](aikataulu.md#week-6) |  |  |
-| **9** 25.2.- |  |  |  |  | guidance:<br/>15-18 BK107 |  |  |
-| **10** 4.3.-  _Exam week_ |  |  |  |  |  **[Final submission](https://github.com/TiraLabra/2019_3/blob/master/pages/aikataulu.md#final-deadline-exam-week-friday-83-2359)** |  |  |
+| **9** 25.2.- |  |  | **Demo #1** <br /> 14-16 B119 |  | guidance:<br/>15-18 BK107 |  |  |
+| **10** 4.3.-  _Exam week_ |  |  |  | **Demo #2** <br /> 12-14 CK111 |  **[Final submission](https://github.com/TiraLabra/2019_3/blob/master/pages/aikataulu.md#final-deadline-exam-week-friday-83-2359)** |  |  |
 
 ## :mega: News
 
+ * Time an place for demonstration sessions has been set. A link to a doodle form for registering to a demo session has been snt out to students. Contact a course assistant if you can't make either of the options.
  * Doodle link for demo session planning has been sent to registered students. The email address is the one configured in weboodi.
  * First round of code review have been released. Check out labtool for links to repositories to review.
  * Workshop for 8.2. mostly cancelled. Someone may be around for general algorith workshop stuff. If you have lab specific concerns I should be reachable through irc or e-mail.
@@ -52,7 +53,7 @@ Generally the Telegram and IRC chats are linked (bridged) together, so the cours
 
 ## Demonstration
 
-* Time and place TBD. Hopefully a doodle questionnaire will be sent out after the start of the course with potential times.
+* Time and place: Demo #1: Wednesday 27.2. 14-16 B119, Demo #2 Thursday 7.3. 12-14 CK111. <!-- Hopefully a doodle questionnaire will be sent out after the start of the course with potential times. -->
 * **Mandatory!** Contact the course assistant if you can not make the Demo session. The Demo session is mandatory to get a passing grade!
 * All projects will be loaded onto a presentation machine, which you may use for the demonstration.
 * Alternatively you can present with your own laptop. In this case you may want to arrive early to test that the laptop works properly with the projector.

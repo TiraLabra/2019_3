@@ -57,7 +57,7 @@ Telegram kanava on (yleensä) sillattu irkkiin, joten ohjaajaan päässee käsik
 
 ## Demotilaisuus
 
-* Paikka ja aika: Demo #1: Keskiviikko 27.2. 14-16 B119, Demo #2: Torstai 7.3. 12-14 CK111. Suunnitelma on laittaa pari viikkoa kurssin alun jälkeen doodle kysely sopivimman demo-ajan löytämiseksi.
+* Paikka ja aika: Demo #1: Keskiviikko 27.2. 14-16 B119, Demo #2: Torstai 7.3. 12-14 CK111. <!-- Suunnitelma on laittaa pari viikkoa kurssin alun jälkeen doodle kysely sopivimman demo-ajan löytämiseksi. -->
 * **PAKOLLINEN!** Ota yhteyttä jos et pääse demotilaisuuteen, se on läpipääsyyn pakollinen!
 * Projektit ladattu etukäteen esityskoneelle, josta näytetään oma työ.
 * Vaihtoehtoisesti demota voi omalta kannettavalta. Tässa tapauksessa kannattaa saapua demoon hyvissä ajoin ja varmistaa että projektori toimii koneen kanssa
